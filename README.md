@@ -1,10 +1,10 @@
 # 🐲 夜脚本 · Ye Script
 
-> 稳定 · 高效 · 持续维护 | 由小江 & 夜晚 联合维护
+> 稳定 · 高效 · 持续维护 | 由夜晚维护
 
-![版本](https://img.shields.io/badge/版本-3.5.2-FF6B8B)
+![版本](https://img.shields.io/badge/版本-1.0.0-FF6B8B)
 ![状态](https://img.shields.io/badge/状态-在线-37ECBA)
-![更新](https://img.shields.io/badge/更新-2026.02-2D9EE0)
+![更新](https://img.shields.io/badge/更新-2026.02.03-2D9EE0)
 ![许可](https://img.shields.io/badge/许可-仅供学习-FFD166)
 
 ---
@@ -21,7 +21,7 @@
 使用你信赖的 **最新版执行器**，在游戏内执行以下代码：
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/61646764343/roblox-script/refs/heads/main/jiang-script.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/61646764343/ye-script/refs/heads/main/ye%20script.lua", true))()
 ```
 
 ---
