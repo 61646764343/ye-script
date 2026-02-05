@@ -4,7 +4,7 @@
 
 ![版本](https://img.shields.io/badge/版本-1.0.0-FF6B8B)
 ![状态](https://img.shields.io/badge/状态-在线-37ECBA)
-![更新](https://img.shields.io/badge/更新-2026.02.03-2D9EE0)
+![更新](https://img.shields.io/badge/更新-2026.02.05-2D9EE0)
 ![许可](https://img.shields.io/badge/许可-仅供学习-FFD166)
 
 ---
