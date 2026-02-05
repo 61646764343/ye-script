@@ -5,13 +5,10 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/版本-1.0.0-FF6B8B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/状态-在线-37ECBA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/更新-2026.02.05-2D9EE0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/许可-仅供学习-FFD166?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/支持游戏-25+-4ECDC4?style=for-the-badge" />
-</p>
+![版本](https://img.shields.io/badge/版本-1.0.0-FF6B8B)
+![状态](https://img.shields.io/badge/状态-在线-37ECBA)
+![更新](https://img.shields.io/badge/更新-2026.02.05-2D9EE0)
+![许可](https://img.shields.io/badge/许可-仅供学习-FFD166)
 
 ---
 
@@ -35,7 +32,7 @@
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/61646764343/ye-script/refs/heads/main/ye%20script.lua", true))()
-
+```
 
 ---
 
